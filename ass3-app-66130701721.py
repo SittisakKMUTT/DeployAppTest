@@ -1,4 +1,4 @@
-
+from sklearn.linear_model import Perceptron
 import streamlit as st
 
 import pickle
